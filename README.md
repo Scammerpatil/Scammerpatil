@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=scammerpatil&icon=2&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on Resume Builder<br>🌱 I’m currently learning Express JS<br>👨‍💻 All of my projects are available at https://scammerpatil.github.io/Personal-Portfolio/<br>💬 Ask me about React , Mongo DB , HTML and CSS , JavaScript , Java......<br>📫 How to reach me sauravpatil453@gmail.com
 
@@ -14,6 +15,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=scammerpatil&icon=2&color=0)](https://visitcount.itsvg.in)
